@@ -1,8 +1,7 @@
 import random
 import math
 # Who is even who is odd? due:2/14
-#Poojaa and Kwadwo
-
+#Poojaa 
 #comment:These are fixed values 
 choice_one= "odd"
 choice_two= "even"
